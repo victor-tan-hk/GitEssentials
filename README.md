@@ -1,2 +1,2 @@
-# Git Essentials - Keysight 
-# 8-9 Sept 2022
+# Git Essentials  
+# 13 - 14 July 2023
