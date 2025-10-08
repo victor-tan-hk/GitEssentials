@@ -1,2 +1,2 @@
 # Git Essentials  
-# 8 - 9 July 2024
+##  8 - 9 Oct 2025
